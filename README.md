@@ -1,0 +1,1 @@
+Here you can find documentation and files for modular 3d printed fpv sailplane. The sailplane has 2m wingspan and it is 1m long. Moast of the construction is 3d printed. The wing spars are constructed of 2 carbbonfiber piper each and the body is one thicker carbon fiber pipe.
